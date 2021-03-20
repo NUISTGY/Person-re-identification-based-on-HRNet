@@ -1,1 +1,1 @@
-
+A re-ID baseline constructed by High-Resolution Network. With only a few necessary tricks, the accuracy of re-ID is improved to 94.7%, which is much higher than the ResNet based method in the same dataset.
