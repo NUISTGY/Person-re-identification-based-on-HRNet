@@ -1,6 +1,7 @@
-<h1 align="center"> Pytorch ReID </h1>
+<h1 align="center"> HRnet-reID </h1>
 <h2 align="center"> Strong And Friendly </h2>
 A re-ID baseline constructed by High-Resolution Network. With only a few necessary tricks, the rank-1 of Market-1501 is improved to 94.7%, which is much higher than the ResNet based method in the same dataset.
+
 ## Installation
 - Install Pytorch from http://pytorch.org/
 - Install Torchvision from the source
